@@ -1,5 +1,5 @@
- # @Grass-Bot
-这是一个专为小草空投第二季设计的机器人
+ # Grass-Bot
+这是一个专为Grass小草第二季空投设计的挂机机器人
 
 ## 功能
 ✅ 支持多个 UID
@@ -16,7 +16,7 @@ git clone https://github.com/Lwx7832/grass-bot.git
  ```
 进入项目目录：
  ```bash
-cd getgrass-bot
+cd grass-bot
  ```
 ## 安装所需依赖项：
  ```bash
@@ -26,7 +26,7 @@ npm install
 ## 使用说明
 获取用户 ID：
 
-注册并且登录到 GetGrass 网站: https://app.getgrass.io/register/?referralCode=kVk6fmWmq_kEWLN
+注册并且登录到 Grass 网站: https://app.getgrass.io/register/?referralCode=kVk6fmWmq_kEWLN
 
 打开浏览器开发者工具（通常按 F12 或右键选择“检查”）。
 
@@ -57,11 +57,11 @@ socks5://username:password@hostname:port
 ```
 启动机器人：
 
-在终端中执行以下命令运行 GetGrass-Bot：
+在终端中执行以下命令运行 Grass-Bot：
 ```bash
 npm start
 
 ```
-推荐代理： 
+推荐代理：
 https://iproyal.com/?r=696527
 https://www.webshare.io/?referral_code=2dqzq35te8tq
